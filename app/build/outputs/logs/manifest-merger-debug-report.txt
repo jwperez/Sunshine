@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+MERGED from [com.android.databinding:adapters:3.1.2] /Users/perezj/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/b220e05b5da833c81136c48f820fd937/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.2] /Users/perezj/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/77bfc31f745dd81112b47d0cf3ac7b3a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/1af4af375984ab6cee2e7deda7abc2ee/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c8913fa251d4856d532d4ad41b158c1f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7813abca95a563fa8ed612f181d2d511/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/34568fc6683d40a4524572868bffc761/AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/6cb810725f4d7eb52068ad67130b3eaf/AndroidManifest.xml:17:1-42:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ef4db6cb9afa95b52b9b09fd8287437/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cc97e8b5afee71126a90cbe9e864b5c3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4e9cdcd7301f2315681d5088f3c0d039/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1371e63e9ac66cba673a7e8060fe58ad/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d2dee4eeb2a92e2e7c9057b0f34cd8f7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e75f369bb0fdce4f6be91e9b800f6468/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51f5982abc4a44cac080d64643c3c382/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/974c545d55f91248b2006c97a369138d/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/perezj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/29ee0a7b8ebb0666e57646d936d8329f/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+	package
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:19:5-43
+		INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+		INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+		INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:18:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:22-64
+application
+ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:24:5-69:19
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/1af4af375984ab6cee2e7deda7abc2ee/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/1af4af375984ab6cee2e7deda7abc2ee/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c8913fa251d4856d532d4ad41b158c1f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c8913fa251d4856d532d4ad41b158c1f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7813abca95a563fa8ed612f181d2d511/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7813abca95a563fa8ed612f181d2d511/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/34568fc6683d40a4524572868bffc761/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/34568fc6683d40a4524572868bffc761/AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/6cb810725f4d7eb52068ad67130b3eaf/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/6cb810725f4d7eb52068ad67130b3eaf/AndroidManifest.xml:26:5-40:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ef4db6cb9afa95b52b9b09fd8287437/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ef4db6cb9afa95b52b9b09fd8287437/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cc97e8b5afee71126a90cbe9e864b5c3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cc97e8b5afee71126a90cbe9e864b5c3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4e9cdcd7301f2315681d5088f3c0d039/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4e9cdcd7301f2315681d5088f3c0d039/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1371e63e9ac66cba673a7e8060fe58ad/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1371e63e9ac66cba673a7e8060fe58ad/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d2dee4eeb2a92e2e7c9057b0f34cd8f7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d2dee4eeb2a92e2e7c9057b0f34cd8f7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e75f369bb0fdce4f6be91e9b800f6468/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e75f369bb0fdce4f6be91e9b800f6468/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51f5982abc4a44cac080d64643c3c382/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51f5982abc4a44cac080d64643c3c382/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/974c545d55f91248b2006c97a369138d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/974c545d55f91248b2006c97a369138d/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:29:9-40
+activity#com.example.android.sunshine.ui.list.MainActivity
+ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:32:9-37:20
+	android:label
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:34:13-45
+	android:launchMode
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:35:13-43
+	android:theme
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:36:13-53
+	android:name
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:33:13-49
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:40:9-52:20
+	android:parentActivityName
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:43:13-63
+	android:label
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:42:13-58
+	android:theme
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:41:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:45:13-47:56
+	android:value
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:47:17-54
+	android:name
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:46:17-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:48:13-51:29
+action#android.intent.action.MAIN
+ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:49:17-68
+	android:name
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:50:27-74
+service#com.example.android.sunshine.data.network.SunshineSyncIntentService
+ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:56:9-58:40
+	android:exported
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:57:13-67
+service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
+ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:61:9-67:19
+	android:exported
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:62:13-68
+intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:64:13-66:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:65:17-83
+	android:name
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:65:25-81
+uses-sdk
+INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.2] /Users/perezj/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/b220e05b5da833c81136c48f820fd937/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.2] /Users/perezj/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/b220e05b5da833c81136c48f820fd937/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.2] /Users/perezj/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/77bfc31f745dd81112b47d0cf3ac7b3a/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.2] /Users/perezj/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/77bfc31f745dd81112b47d0cf3ac7b3a/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/1af4af375984ab6cee2e7deda7abc2ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/1af4af375984ab6cee2e7deda7abc2ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c8913fa251d4856d532d4ad41b158c1f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c8913fa251d4856d532d4ad41b158c1f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7813abca95a563fa8ed612f181d2d511/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7813abca95a563fa8ed612f181d2d511/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/34568fc6683d40a4524572868bffc761/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/34568fc6683d40a4524572868bffc761/AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/6cb810725f4d7eb52068ad67130b3eaf/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/6cb810725f4d7eb52068ad67130b3eaf/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ef4db6cb9afa95b52b9b09fd8287437/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ef4db6cb9afa95b52b9b09fd8287437/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cc97e8b5afee71126a90cbe9e864b5c3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cc97e8b5afee71126a90cbe9e864b5c3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4e9cdcd7301f2315681d5088f3c0d039/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4e9cdcd7301f2315681d5088f3c0d039/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1371e63e9ac66cba673a7e8060fe58ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1371e63e9ac66cba673a7e8060fe58ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d2dee4eeb2a92e2e7c9057b0f34cd8f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d2dee4eeb2a92e2e7c9057b0f34cd8f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e75f369bb0fdce4f6be91e9b800f6468/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e75f369bb0fdce4f6be91e9b800f6468/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51f5982abc4a44cac080d64643c3c382/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51f5982abc4a44cac080d64643c3c382/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/974c545d55f91248b2006c97a369138d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/974c545d55f91248b2006c97a369138d/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/perezj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/29ee0a7b8ebb0666e57646d936d8329f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/perezj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/29ee0a7b8ebb0666e57646d936d8329f/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c8913fa251d4856d532d4ad41b158c1f/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:preference-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/1af4af375984ab6cee2e7deda7abc2ee/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c8913fa251d4856d532d4ad41b158c1f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c8913fa251d4856d532d4ad41b158c1f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7813abca95a563fa8ed612f181d2d511/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7813abca95a563fa8ed612f181d2d511/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ef4db6cb9afa95b52b9b09fd8287437/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ef4db6cb9afa95b52b9b09fd8287437/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cc97e8b5afee71126a90cbe9e864b5c3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cc97e8b5afee71126a90cbe9e864b5c3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4e9cdcd7301f2315681d5088f3c0d039/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4e9cdcd7301f2315681d5088f3c0d039/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1371e63e9ac66cba673a7e8060fe58ad/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1371e63e9ac66cba673a7e8060fe58ad/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d2dee4eeb2a92e2e7c9057b0f34cd8f7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d2dee4eeb2a92e2e7c9057b0f34cd8f7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e75f369bb0fdce4f6be91e9b800f6468/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e75f369bb0fdce4f6be91e9b800f6468/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51f5982abc4a44cac080d64643c3c382/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51f5982abc4a44cac080d64643c3c382/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/974c545d55f91248b2006c97a369138d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/974c545d55f91248b2006c97a369138d/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:preference-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/1af4af375984ab6cee2e7deda7abc2ee/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:preference-v7:26.1.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/1af4af375984ab6cee2e7deda7abc2ee/AndroidManifest.xml:24:13-51
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/6cb810725f4d7eb52068ad67130b3eaf/AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/6cb810725f4d7eb52068ad67130b3eaf/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/6cb810725f4d7eb52068ad67130b3eaf/AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/6cb810725f4d7eb52068ad67130b3eaf/AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/6cb810725f4d7eb52068ad67130b3eaf/AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/6cb810725f4d7eb52068ad67130b3eaf/AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/perezj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/6cb810725f4d7eb52068ad67130b3eaf/AndroidManifest.xml:37:25-84
