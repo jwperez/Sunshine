@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
+            "outputFile": "/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/Sunshine/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
             "map": [
                 {
                     "source": "/Users/perezj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c8913fa251d4856d532d4ad41b158c1f/res/values-az/values-az.xml",

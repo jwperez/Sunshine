@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/Sunshine/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/res/values-port/bools.xml",
+                    "source": "/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/Sunshine/app/src/main/res/values-port/bools.xml",
                     "from": {
                         "startLines": "17",
                         "startColumns": "4",
