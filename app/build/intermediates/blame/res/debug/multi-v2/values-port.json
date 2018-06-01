@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/Sunshine/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "C:\\Users\\JP\\Development\\AndroidProjects\\GitHubRepo\\Sunshine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/Sunshine/app/src/main/res/values-port/bools.xml",
+                    "source": "C:\\Users\\JP\\Development\\AndroidProjects\\GitHubRepo\\Sunshine\\app\\src\\main\\res\\values-port\\bools.xml",
                     "from": {
                         "startLines": "17",
                         "startColumns": "4",
-                        "startOffsets": "692",
+                        "startOffsets": "709",
                         "endColumns": "45",
-                        "endOffsets": "733"
+                        "endOffsets": "750"
                     },
                     "to": {
                         "startLines": "3",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/perezj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c8913fa251d4856d532d4ad41b158c1f/res/values-port/values-port.xml",
+                    "source": "C:\\Users\\JP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\61450c08d9af23b10b28ad3626bda4fd\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

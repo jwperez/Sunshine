@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/Sunshine/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "C:\\Users\\JP\\Development\\AndroidProjects\\GitHubRepo\\Sunshine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "/Users/perezj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c8913fa251d4856d532d4ad41b158c1f/res/values-land/values-land.xml",
+                    "source": "C:\\Users\\JP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\61450c08d9af23b10b28ad3626bda4fd\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,13 +14,13 @@
                     }
                 },
                 {
-                    "source": "/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/Sunshine/app/src/main/res/values-land/dimens.xml",
+                    "source": "C:\\Users\\JP\\Development\\AndroidProjects\\GitHubRepo\\Sunshine\\app\\src\\main\\res\\values-land\\dimens.xml",
                     "from": {
                         "startLines": "19,20",
                         "startColumns": "4,4",
-                        "startOffsets": "694,760",
+                        "startOffsets": "713,780",
                         "endColumns": "65,63",
-                        "endOffsets": "755,819"
+                        "endOffsets": "774,839"
                     },
                     "to": {
                         "startLines": "6,7",

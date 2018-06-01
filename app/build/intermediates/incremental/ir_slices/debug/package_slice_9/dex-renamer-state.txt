@@ -1,4 +1,4 @@
-#Thu May 31 20:55:04 EDT 2018
-base.0=/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/Sunshine/app/build/intermediates/transforms/dexMerger/debug/9
+#Fri Jun 01 09:34:04 EDT 2018
+base.0=C\:\\Users\\JP\\Development\\AndroidProjects\\GitHubRepo\\Sunshine\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
 path.0=classes.dex
 renamed.0=classes.dex

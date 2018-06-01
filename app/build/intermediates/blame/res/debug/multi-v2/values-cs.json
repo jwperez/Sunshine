@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/Sunshine/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
+            "outputFile": "C:\\Users\\JP\\Development\\AndroidProjects\\GitHubRepo\\Sunshine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cs\\values-cs.xml",
             "map": [
                 {
-                    "source": "/Users/perezj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c8913fa251d4856d532d4ad41b158c1f/res/values-cs/values-cs.xml",
+                    "source": "C:\\Users\\JP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\61450c08d9af23b10b28ad3626bda4fd\\res\\values-cs\\values-cs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

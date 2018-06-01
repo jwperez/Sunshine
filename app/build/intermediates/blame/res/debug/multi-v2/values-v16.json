@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/Sunshine/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "C:\\Users\\JP\\Development\\AndroidProjects\\GitHubRepo\\Sunshine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/perezj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/974c545d55f91248b2006c97a369138d/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/Users/perezj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c8913fa251d4856d532d4ad41b158c1f/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\JP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\61450c08d9af23b10b28ad3626bda4fd\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -33,14 +23,14 @@
                     }
                 },
                 {
-                    "source": "/Users/perezj/Development/AndroidProjects/architectureComponentsSunshineStartingCode/Sunshine/app/src/main/res/values-v16/styles.xml",
+                    "source": "C:\\Users\\JP\\Development\\AndroidProjects\\GitHubRepo\\Sunshine\\app\\src\\main\\res\\values-v16\\styles.xml",
                     "from": {
                         "startLines": "19",
                         "startColumns": "4",
-                        "startOffsets": "694",
+                        "startOffsets": "713",
                         "endLines": "24",
                         "endColumns": "12",
-                        "endOffsets": "1036"
+                        "endOffsets": "1060"
                     },
                     "to": {
                         "startLines": "3",
@@ -49,6 +39,16 @@
                         "endLines": "8",
                         "endColumns": "12",
                         "endOffsets": "463"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\JP\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e2030d29dc3e0607be0932d317b934af\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]
